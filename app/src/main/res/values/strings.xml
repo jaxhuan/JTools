@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JTools</string>
+
+    <string name="noise_title">Noise</string>
+
+    <string name="permission_audio_denied">缺少录音权限</string>
+    <string name="permission_audio">需要用手机麦克风来检测音量</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+
+    <string name="noise_media">Media</string>
+    <string name="noise_audio">Audio</string>
+
+    <string name="noise_db">分贝</string>
+
+</resources>
